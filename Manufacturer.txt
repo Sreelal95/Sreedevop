@@ -1,4 +1,4 @@
-Production cost.
+Production before material availability.
 Production Time.
 Time Consumption.
 Break time.
