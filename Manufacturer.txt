@@ -1,4 +1,4 @@
 Production cost.
-Production Time.
+Production Time and Time for each circuit.
 Time Consumption.
 Break time.
