@@ -1,2 +1,4 @@
 Production cost.
 Production Time.
+Time Consumption.
+Break time.
