@@ -7,3 +7,4 @@ Production Time and Time for each circuit.
 >>>>>>> 15fa983eaede3b7f6e3c529eca728fc7df0c1786
 Time Consumption.
 Break time.
+ stash practice
